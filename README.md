@@ -1,4 +1,4 @@
-# Repository 1: LangChain LLM Chain (Gemini)
+# LangChain LLM Chain
 
 This repository contains a basic LangChain chain implementation using Gemini chat models.
 
